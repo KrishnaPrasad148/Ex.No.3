@@ -117,5 +117,3 @@ Thus, the various types of prompts were executed successfully, and the generated
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
-
